@@ -1,4 +1,4 @@
-# GCMFNet：这里自己论文标题
+# GCMFNet：Camouflaged Object Detection via Global-edge Context and Mixed-scale Refinement
 
 
 > **Authors:** 
